@@ -1,0 +1,53 @@
+.padre{
+	width: 700px;
+	height: 400px;
+	background: #8cb27c;
+	position: absolute;
+}
+.borde{
+	border: 1px solid white;
+	width: 650px;
+	height: 350px;
+	margin: auto;
+	top: 20px;
+	position: relative;
+}
+.cuadradoUno{
+	width: 70px;
+	height: 150px;
+	border: 1px solid white;
+	position: relative;
+	top: 100px;
+}
+.cuadradoDos{
+	width: 70px;
+	height: 150px;
+	border: 1px solid white;
+	position: relative;
+	left: 578px;
+	bottom: 57px;
+}
+.circulo{
+	border-radius: 100%;
+	border: 1px solid white;
+	width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 202px;
+	left: 240px;
+}
+.imagen1{
+	position: relative;
+	bottom: 350px;
+	left: 60px;
+}
+.imagen2{
+	position: relative;
+	bottom: 430px;
+	left: 350px;
+}
+.imagen3{
+	position: relative;
+	bottom: 290px;
+	left: 550px;
+}
